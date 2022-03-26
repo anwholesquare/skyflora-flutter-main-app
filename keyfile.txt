@@ -1,0 +1,3 @@
+KEY: skyflora
+PASS: 123456
+key.jks

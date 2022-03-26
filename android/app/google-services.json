@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "258012142475",
+    "project_id": "skyflora-4cda8",
+    "storage_bucket": "skyflora-4cda8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258012142475:android:c074188cde1771f9ce2d8e",
+        "android_client_info": {
+          "package_name": "com.skyflora.skyflora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258012142475-h95v9dgf6evp3ocqprqlmaiht5j6sorh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skyflora.skyflora",
+            "certificate_hash": "90fe80b3a890d6975607e4cf55496810522d74f4"
+          }
+        },
+        {
+          "client_id": "258012142475-8r1dt7as1i486nlsp0isi2r9gertssek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB-ZBzVDc3GLwwKEjJyGCCB0kZad6MzRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258012142475-8r1dt7as1i486nlsp0isi2r9gertssek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
